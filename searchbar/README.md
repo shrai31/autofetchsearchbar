@@ -1,0 +1,1 @@
+ <!-- Use material ui icon just for searchIcon -->
